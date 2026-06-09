@@ -47,6 +47,8 @@ header p{
 .stadion-box{
     background:white;
 
+    border:4px solid #1f7a3b;
+
     border-radius:20px;
 
     padding:50px 25px;
