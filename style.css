@@ -45,9 +45,9 @@ header p{
 /* KAFELKI */
 
 .stadion-box{
-    background: red;
+    background:#f5f0e6;
 
-    border:4px solid #22c55e;
+    border:4px solid #14532d;
 
     border-radius:25px;
 
@@ -57,12 +57,12 @@ header p{
 
     text-decoration:none;
 
-    color:white;
+    color:#222;
 
-    box-shadow:0 8px 20px rgba(0,0,0,0.25);
+    box-shadow:0 8px 20px rgba(0,0,0,0.2);
 
-    transition:all 0.3s ease;
-} 
+    transition:0.3s;
+}
 
 .stadion-box:hover{
     transform:translateY(-10px);
