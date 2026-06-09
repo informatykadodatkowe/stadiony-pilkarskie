@@ -7,7 +7,12 @@
 body{
     font-family:Arial, sans-serif;
     background:#dff5d8;
+
     min-height:100vh;
+
+    display:flex;
+    flex-direction:column;
+
 }
 
 /* NAGŁÓWEK */
@@ -126,6 +131,9 @@ nav a{
     text-align:justify;
 }
 
+.card{
+    flex:1;
+}
 /* STOPKA */
 
 footer{
@@ -134,8 +142,11 @@ footer{
     color:white;
     text-align:center;
     padding:20px;
+    
 }
-
+footer{
+    margin-top:auto;
+}
 /* TELEFONY */
 
 @media(max-width:900px){
