@@ -17,7 +17,6 @@ body{
 
 }
 
-/* NAGŁÓWEK */
 
 header{
     text-align:center;
@@ -35,7 +34,6 @@ header p{
     color:#444;
 }
 
-/* SIATKA STADIONÓW */
 
 .stadiony-grid{
     max-width:1200px;
@@ -49,10 +47,9 @@ header p{
     padding:30px;
 }
 
-/* KAFELKI */
 
 .stadion-box{
-    background:#f5f0e6;
+    background:#C8A165;
 
     border:4px solid #14532d;
 
@@ -90,7 +87,6 @@ header p{
     font-size:1rem;
 }
 
-/* STRONY STADIONÓW */
 
 nav{
     background:#1f7a3b;
@@ -107,7 +103,7 @@ nav a{
     max-width:1000px;
     margin:40px auto;
 
-    background:#f5f0e6;
+    background:#C8A165;
 
     border-radius:20px;
 
@@ -136,7 +132,6 @@ nav a{
 .card{
     flex:1;
 }
-/* STOPKA */
 
 footer{
     margin-top:50px;
@@ -149,7 +144,6 @@ footer{
 footer{
     margin-top:auto;
 }
-/* TELEFONY */
 
 @media(max-width:900px){
 
